@@ -7,9 +7,9 @@
 # name = "Constantine"
 # print(f"Hello, My name is {name}!")
 
-# name = input("Enter your name: ")
-# surname = input("Enter your surname: ")
-# print(f"Hello. My name is {name.capitalize()} {surname.capitalize()}.")
+name = input("Enter your name: ")
+surname = input("Enter your surname: ")
+print(f"Hello. My name is {name.capitalize()} {surname.capitalize()}.")
 
 
 a = int(input("Enter a number: "))
